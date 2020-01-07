@@ -10161,7 +10161,7 @@ section.lazy-placeholder:after {
   line-height: 30px;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #0087ab;
+  border: 2px solid #b89094;
   font-size: 30px;
   display: inline-block;
   top: 29px;
@@ -10174,7 +10174,7 @@ section.lazy-placeholder:after {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #0087ab;
+  background-color: #b89094;
   left: calc(25% - 1px);
   height: calc(100% + 2rem);
 }
@@ -10184,7 +10184,7 @@ section.lazy-placeholder:after {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #0087ab;
+  background-color: #b89094;
   left: calc(25% - 1px);
   height: 100%;
 }
@@ -10230,7 +10230,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rMTlyi2K9q .mbr-timeline-text {
-  text-align: center;
+  text-align: left;
 }
 .cid-rMPf2smvtM {
   padding-top: 30px;
