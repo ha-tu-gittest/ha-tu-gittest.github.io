@@ -267,10 +267,6 @@
   max-height: 15px;
   border-radius: 50%; }
 
-.carousel-indicators li.active {
-  border: 4px solid #1b1b1b;
-  background: #fff; }
-
 .container .carousel-indicators {
   margin-bottom: 3px; }
 
